@@ -6,4 +6,4 @@
       <class name="com.demo.testscript.CustomerModule"/>
     </classes>
   </test>
-</suite> <!-- Comments -->
+</suite>
