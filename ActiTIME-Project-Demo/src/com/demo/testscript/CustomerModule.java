@@ -14,9 +14,9 @@ public class CustomerModule extends BaseClass
 	@Test
 	public void createCustomer() throws Exception
 	{
-		String expectedCustomerName = library.getExcelFileData("Create Customer", 4, 2);
+		String expectedCustomerName = library.getExcelFileData("Create Customer", 1, 2);
 
-		String customerDescription = library.getExcelFileData("Create Customer", 4, 3);
+		String customerDescription = library.getExcelFileData("Create Customer", 1, 3);
 		Thread.sleep(1000);
 
 		utility.verifyTitle("Enter Time-Track");
