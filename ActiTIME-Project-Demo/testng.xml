@@ -5,5 +5,5 @@
     <classes>
       <class name="com.demo.testscript.CustomerModule"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test>
+</suite> 
